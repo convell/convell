@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=convell&label=Profile%20views&color=0e75b6&style=flat" alt="convell" /> </p>
 
-- 🔭 I’m currently working on **bettering my skillset**
+- 🔭 I’m currently working on **bettering my skillset to better help others**
 
-- 🌱 I’m currently reading **Release It!**
+- 🌱 I’m currently reading **Accelerate**
 
 - 📫 How to reach me **paul@crok.io**
 
