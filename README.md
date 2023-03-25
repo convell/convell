@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently reading **Release It!**
 
-- 📫 How to reach me **paul@nevada.unr.edu**
+- 📫 How to reach me **paul@crok.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
